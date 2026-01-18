@@ -1,1 +1,3 @@
-vault/*.yaml
+# Ignore all vault files anywhere
+**/vault/*.yaml
+**/vault/*.yml
