@@ -2,3 +2,4 @@ CATALOGUE_HOST: catalogue.daws84.sbs
 USER_HOST: user.daws84.sbs
 CART_HOST: cart.daws84.sbs
 SHIPPING_HOST: shipping.daws84.sbs
+PAYMENT_HOST: payment.daws84.sbs
